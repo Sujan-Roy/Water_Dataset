@@ -1,9 +1,9 @@
 # Water_Dataset
 
-This repository contains a comprehensive analysis of water quality data collected from various locations across Bangladesh. The dataset includes measurements of pH, TDS (Total Dissolved Solids), and Turbidity from 4,700 sampling points.
+This repository contains a comprehensive analysis of water quality data collected from various locations across Bangladesh. The dataset includes measurements of pH, TDS (Total Dissolved Solids), and Turbidity from 4,762 sampling points.
 
 # Dataset Description
-Size: 4,700 samples
+Size: 4,762 samples
 
 Parameters Measured:
 
